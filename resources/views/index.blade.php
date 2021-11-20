@@ -9,7 +9,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo d-flex">
-        <a href="index.html"><img src="/img/logo.png" alt="" class="img-fluid"></a>
+        <!-- <a href="index.html"><img src="/img/logo.png" alt="" class="img-fluid"></a> -->
         <h1><a href="index.html">Kelas Trading Gratis</a></h1>
       </div>
 
@@ -53,8 +53,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Grow your business with Vesperr</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented designers making websites with Bootstrap</h2>
+          <h1 data-aos="fade-up">Marilah mulai trading</h1>
+          <h2 data-aos="fade-up" data-aos-delay="400">Jadilah trader profesional bersama kami</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
@@ -70,24 +70,31 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
-    <!-- <section id="clients" class="clients clients">
+    <section id="clients" class="clients clients">
       <div class="container">
 
         <div class="row">
 
-          <div class="col-lg-2 col-md-4 col-6">
+          <!-- <div class="col-lg-2 col-md-4 col-6">
             <img src="/img/clients/client-1.png" class="img-fluid" alt="" data-aos="zoom-in">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
             <img src="/img/clients/client-2.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
-          </div>
+          </div> -->
+            
+          
+          <div class="d-flex justify-content-center mt-3">
+            <center>
+            <h3>Ingin daftar ? yuk klik tombol dibawah ini</h3>
+            <a href="https://quotex-broker.com/" target="_blank">
+            <img src="/img/clients/quotex2.png" class="img-fluid d-flex justify-content-center" alt="" data-aos="zoom-in" data-aos-delay="200">
+            </a>  
+            </center>
+        </div>
+          
 
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="/img/clients/client-3.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
+          <!-- <div class="col-lg-2 col-md-4 col-6">
             <img src="/img/clients/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
           </div>
 
@@ -97,12 +104,13 @@
 
           <div class="col-lg-2 col-md-4 col-6">
             <img src="/img/clients/client-6.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
-          </div>
+          </div> -->
 
         </div>
 
       </div>
-    </section>End Clients Section -->
+      </section>
+    <!-- End Clients Section -->
 
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
@@ -854,7 +862,7 @@
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-about">
-              <h3>Vesperr</h3>
+              <h3>Kelas Trading Gratis</h3>
               <p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
               <div class="social-links">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -921,14 +929,14 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy; Copyright <strong>Vesperr</strong>. All Rights Reserved
+            &copy; Copyright <strong>Kelas Trading Gratis</strong>. All Rights Reserved
           </div>
           <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/vesperr-free-bootstrap-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            Development by <a href="https://www.instagram.com/ypcteam_mosa/" target="_blank">Kelas Trading Gratis</a>
           </div>
         </div>
         <div class="col-lg-6">
