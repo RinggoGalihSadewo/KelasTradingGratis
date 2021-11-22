@@ -6,22 +6,23 @@
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
-    <div class="container d-flex align-items-center justify-content-between">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
 
-      <div class="logo d-flex">
-        <!-- <a href="index.html"><img src="/img/logo.png" alt="" class="img-fluid"></a> -->
-        <h1><a href="index.html">Kelas Trading Gratis</a></h1>
+      <div class="logo d-flex align-items-center">
+        <a href="{{url('/')}}"><img src="/img/clients/131.png" class="Logo" alt="Kursus Trading Gratis"></a>
+        <h1><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#join">Join us</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#services">Fasilitas</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
@@ -37,7 +38,7 @@
               <li><a href="#">Drop Down 3</a></li>
               <li><a href="#">Drop Down 4</a></li>
             </ul>
-          </li>
+          </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
         </ul>
@@ -55,8 +56,10 @@
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Marilah mulai trading</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">Jadilah trader profesional bersama kami</h2>
+          <!-- <h2>8.000+ Aktif</h2>
+          <h2>20.000+ Orang telah mendaftar</h2> -->
           <div data-aos="fade-up" data-aos-delay="800">
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <a href="#about" class="btn-get-started scrollto">Mulai</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
@@ -66,6 +69,32 @@
     </div>
 
   </section><!-- End Hero -->
+
+  <section id="join" data-aos="fade-up" data-aos-delay="200">
+    <div class="container d-flex align-items-center justify-content-center">
+      <div class="join">
+        <div class="row">
+          <div class="col-lg-3">
+            <h4>120.000+</h4>
+            <p>Orang telah profit bersama kami</p>
+          </div>
+          <div class="col-lg-3">
+            <h4>20.000+</h4>
+            <p>Orang telah mendaftar</p>
+          </div>
+          <div class="col-lg-3">
+            <h4>5.000+</h4>
+            <p>Member aktif</p>
+          </div>
+          <div class="col-lg-3">
+            <h4>40 jam+</h4>
+            <p>Materi pembelajan</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
 
   <main id="main">
 
@@ -84,15 +113,29 @@
           </div> -->
             
           
-          <div class="d-flex justify-content-center mt-3">
-            <center>
-            <h3>Ingin daftar ? yuk klik tombol dibawah ini</h3>
-            <a href="https://quotex-broker.com/" target="_blank">
-            <img src="/img/clients/quotex2.png" class="img-fluid d-flex justify-content-center" alt="" data-aos="zoom-in" data-aos-delay="200">
-            </a>  
-            </center>
-        </div>
-          
+          <div class="d-flex justify-content-center align-items-center" >
+            <div class="joingrup">
+              <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-lg-6">       
+                <h3>Ingin daftar ? klik tombol dibawah ini</h3>
+                <center>
+                <a href="https://quotex-broker.com/?lid=16286" target="_blank">
+                <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center" alt="" data-aos="zoom-in" data-aos-delay="200">
+                </a>  
+                </center>  
+                </div>
+                <div class="col-lg-6 mt-5 mt-sm-0">
+                <h3>Join telegram kami dibawah ini</h3>
+                <center>
+                <a href="http://t.me/quotexmosa" target="_blank">
+                <img src="/img/clients/btnTele2.png" class="img-fluid d-flex justify-content-center" alt="" data-aos="zoom-in" data-aos-delay="200">
+                </a>
+                </center>
+                </div>  
+              </div>
+            </div>
+          </div>
+          </div>
 
           <!-- <div class="col-lg-2 col-md-4 col-6">
             <img src="/img/clients/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
@@ -111,6 +154,22 @@
       </div>
       </section>
     <!-- End Clients Section -->
+
+    <section id="youtube">
+      <div class="youtube">
+        <div class="row">
+          <div class="col-lg-4 offset-lg-2 col-12" data-aos="fade-right" data-aos-delay="200">
+            <div class="embed-responsive embed-responsive-21by9">
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/K-cTggVYhxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="col-lg-4 col-12" data-aos="fade-left" data-aos-delay="200">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non possimus totam perspiciatis, in beatae quo nobis, natus commodi id corporis distinctio veniam porro nesciunt modi sequi culpa eius iusto fuga.</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat molestias dolore quibusdam exercitationem porro mollitia consectetur amet natus. Fugit officia perspiciatis consectetur asperiores omnis nulla, beatae natus molestiae odio quisquam.</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, ab repudiandae inventore nam nulla, enim maxime ut dolorem error libero exercitationem repellendus doloremque ex beatae, labore sequi debitis mollitia? Consectetur?</p>
+          </div>
+      </div>   
+    </section>
 
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
@@ -201,7 +260,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Services</h2>
+          <h2>Fasilitas</h2>
           <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fug</p>
         </div>
 
