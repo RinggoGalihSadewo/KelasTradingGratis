@@ -3,7 +3,6 @@
 @section('title','Kelas Trading Gratis')
 
 @section('container')
-
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container-fluid d-flex align-items-center justify-content-between">
@@ -46,11 +45,21 @@
       </nav><!-- .navbar -->
 
     </div>
-  </header><!-- End Header -->
+  </header>
+  <!-- End Header -->
+
+  <section class="wave1" style="height:230px">
+    <div class="row">
+      <div class="col-12">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,128L48,144C96,160,192,192,288,181.3C384,171,480,117,576,85.3C672,53,768,43,864,58.7C960,75,1056,117,1152,117.3C1248,117,1344,75,1392,53.3L1440,32L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
+      </div>
+    </div>
+  </section>
 
   <!-- ======= Hero Section ======= -->
+  
   <section id="hero" class="d-flex align-items-center">
-
+  
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
@@ -63,14 +72,20 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="/img/hero-img3.png" class="img-fluid animated" alt="Mosa and Quotex">
         </div>
       </div>
     </div>
 
   </section><!-- End Hero -->
 
-  <section id="join" data-aos="fade-up" data-aos-delay="200">
+  <div data-aos="fade-right" data-aos-delay="200">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,224L48,224C96,224,192,224,288,218.7C384,213,480,203,576,165.3C672,128,768,64,864,74.7C960,85,1056,171,1152,197.3C1248,224,1344,192,1392,176L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
+  </div>
+
+  <section id="join" data-aos="fade-right" data-aos-delay="200">
+
+  </svg>
     <div class="container d-flex align-items-center justify-content-center">
       <div class="join">
         <div class="row">
@@ -93,13 +108,12 @@
         </div>
       </div>
     </div>
-
   </section>
 
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients clients">
+    <section id="clients" class="clients">
       <div class="container">
 
         <div class="row">
@@ -120,22 +134,32 @@
                 <h3>Ingin daftar ? klik tombol dibawah ini</h3>
                 <center>
                 <a href="https://quotex-broker.com/?lid=16286" target="_blank">
-                <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center" alt="" data-aos="zoom-in" data-aos-delay="200">
+                <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
                 </div>
-                <div class="col-lg-6 mt-5 mt-sm-0">
+
+                <div class="col-lg-6 mt-4 mt-sm-0">       
+                <h3>Ingin daftar ? klik tombol dibawah ini</h3>
+                <center>
+                <a href="https://quotex-broker.com/?lid=16286" target="_blank">
+                <img src="/img/clients/btnTele2.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
+                </a>  
+                </center>  
+                </div>
+                <!-- <div class="col-lg-6 mt-5 mt-sm-0">
                 <h3>Join telegram kami dibawah ini</h3>
                 <center>
                 <a href="http://t.me/quotexmosa" target="_blank">
                 <img src="/img/clients/btnTele2.png" class="img-fluid d-flex justify-content-center" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>
                 </center>
-                </div>  
+                </div>   -->
               </div>
             </div>
           </div>
           </div>
+
 
           <!-- <div class="col-lg-2 col-md-4 col-6">
             <img src="/img/clients/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
@@ -153,7 +177,10 @@
 
       </div>
       </section>
-    <!-- End Clients Section -->
+      <div data-aos="fade-left" data-aos-delay="200">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,224L48,224C96,224,192,224,288,218.7C384,213,480,203,576,165.3C672,128,768,64,864,74.7C960,85,1056,171,1152,197.3C1248,224,1344,192,1392,176L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+      </div>
+      <!-- End Clients Section -->
 
     <section id="youtube">
       <div class="youtube">

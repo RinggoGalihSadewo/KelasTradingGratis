@@ -285,7 +285,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  margin-top: 70px;
+  margin-top: -12%;
+  /* background: linear-gradient(to bottom, white, #e3c817); */
 }
 #hero h1 {
   margin: 0 0 10px 0;
@@ -423,7 +424,6 @@ section {
 --------------------------------------------------------------*/
 .clients {
   background: white;
-  padding: 10px 0;
   text-align: center;
 }
 .clients .col-lg-2 {
@@ -1386,6 +1386,9 @@ section {
 }
 
 @media only screen and (max-width: 991.98px){
+  .wave1{
+    display: none;
+  }
   .logo h1 a{
     font-size: 20px;
   }
