@@ -90,11 +90,11 @@
       <div class="join">
         <div class="row">
           <div class="col-lg-3">
-            <h4>120.000+</h4>
+            <h4>150.000+</h4>
             <p>Orang telah profit bersama kami</p>
           </div>
           <div class="col-lg-3">
-            <h4>20.000+</h4>
+            <h4>15.000+</h4>
             <p>Orang telah mendaftar</p>
           </div>
           <div class="col-lg-3">
@@ -102,7 +102,7 @@
             <p>Member aktif</p>
           </div>
           <div class="col-lg-3">
-            <h4>40 jam+</h4>
+            <h4>Everyday</h4>
             <p>Materi pembelajan</p>
           </div>
         </div>
@@ -184,6 +184,12 @@
 
     <section id="youtube">
       <div class="youtube">
+        <div class="row section-title" data-aos="fade-bottom" data-aos-delay="200">
+          <div class="col-12 d-flex align-items-center justify-content-center">
+            <h2>Video Terbaru</h2>
+          </div>
+        </div>
+
         <div class="row">
           <div class="col-lg-4 offset-lg-2 col-12" data-aos="fade-right" data-aos-delay="200">
             <div class="embed-responsive embed-responsive-21by9">
