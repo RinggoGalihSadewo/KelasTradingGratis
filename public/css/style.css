@@ -1384,6 +1384,11 @@ section {
 .join p{
   font-size: 15px;
 }
+.bioMosa{
+  width: 100%;
+  background-image: url('/img/flat3.jpg');
+  background-size: cover;
+}
 
 @media only screen and (max-width: 991.98px){
   .wave1{
@@ -1409,4 +1414,5 @@ section {
     font-size: 18px;
   }
 }
+
 

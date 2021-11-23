@@ -48,7 +48,7 @@
   </header>
   <!-- End Header -->
 
-  <section class="wave1" style="height:230px">
+  <section class="wave1" style="height:270px">
     <div class="row">
       <div class="col-12">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,128L48,144C96,160,192,192,288,181.3C384,171,480,117,576,85.3C672,53,768,43,864,58.7C960,75,1056,117,1152,117.3C1248,117,1344,75,1392,53.3L1440,32L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
@@ -79,39 +79,9 @@
 
   </section><!-- End Hero -->
 
-  <div data-aos="fade-right" data-aos-delay="200">
+  <div data-aos="fade-up" data-aos-delay="200" id="join">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,224L48,224C96,224,192,224,288,218.7C384,213,480,203,576,165.3C672,128,768,64,864,74.7C960,85,1056,171,1152,197.3C1248,224,1344,192,1392,176L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
   </div>
-
-  <section id="join" data-aos="fade-right" data-aos-delay="200">
-
-  </svg>
-    <div class="container d-flex align-items-center justify-content-center">
-      <div class="join">
-        <div class="row">
-          <div class="col-lg-3">
-            <h4>150.000+</h4>
-            <p>Orang telah profit bersama kami</p>
-          </div>
-          <div class="col-lg-3">
-            <h4>15.000+</h4>
-            <p>Orang telah mendaftar</p>
-          </div>
-          <div class="col-lg-3">
-            <h4>5.000+</h4>
-            <p>Member aktif</p>
-          </div>
-          <div class="col-lg-3">
-            <h4>Everyday</h4>
-            <p>Materi pembelajan</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <main id="main">
-
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container">
@@ -140,7 +110,7 @@
                 </div>
 
                 <div class="col-lg-6 mt-4 mt-sm-0">       
-                <h3>Ingin daftar ? klik tombol dibawah ini</h3>
+                <h3>Gabung grup telegram kami dibawah ini</h3>
                 <center>
                 <a href="https://quotex-broker.com/?lid=16286" target="_blank">
                 <img src="/img/clients/btnTele2.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
@@ -177,31 +147,84 @@
 
       </div>
       </section>
-      <div data-aos="fade-left" data-aos-delay="200">
+  
+
+  </svg>
+  
+
+  <main id="main">
+  <section data-aos="fade-right" data-aos-delay="200">
+    <div class="container d-flex align-items-center justify-content-center">
+      <div class="join">
+        <div class="row">
+          <div class="col-lg-3">
+            <h4>150.000+</h4>
+            <p>Orang telah profit bersama kami</p>
+          </div>
+          <div class="col-lg-3">
+            <h4>15.000+</h4>
+            <p>Orang telah mendaftar</p>
+          </div>
+          <div class="col-lg-3">
+            <h4>5.000+</h4>
+            <p>Member aktif</p>
+          </div>
+          <div class="col-lg-3">
+            <h4>Everyday</h4>
+            <p>Materi pembelajan</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+      <div data-aos="fade-up" data-aos-delay="200">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,224L48,224C96,224,192,224,288,218.7C384,213,480,203,576,165.3C672,128,768,64,864,74.7C960,85,1056,171,1152,197.3C1248,224,1344,192,1392,176L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
       </div>
       <!-- End Clients Section -->
 
-    <section id="youtube">
+    <section id="youtube" class="container my-5">
       <div class="youtube">
-        <div class="row section-title" data-aos="fade-bottom" data-aos-delay="200">
+        <!-- <div class="row section-title" data-aos="fade-bottom" data-aos-delay="200">
           <div class="col-12 d-flex align-items-center justify-content-center">
             <h2>Video Terbaru</h2>
           </div>
-        </div>
-
+        </div> -->
+        
         <div class="row">
           <div class="col-lg-4 offset-lg-2 col-12" data-aos="fade-right" data-aos-delay="200">
             <div class="embed-responsive embed-responsive-21by9">
               <iframe width="100%" height="315" src="https://www.youtube.com/embed/K-cTggVYhxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
-          <div class="col-lg-4 col-12" data-aos="fade-left" data-aos-delay="200">
+          <div class="col-lg-4 col-12 mt-4" data-aos="fade-left" data-aos-delay="200">
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non possimus totam perspiciatis, in beatae quo nobis, natus commodi id corporis distinctio veniam porro nesciunt modi sequi culpa eius iusto fuga.</p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat molestias dolore quibusdam exercitationem porro mollitia consectetur amet natus. Fugit officia perspiciatis consectetur asperiores omnis nulla, beatae natus molestiae odio quisquam.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, ab repudiandae inventore nam nulla, enim maxime ut dolorem error libero exercitationem repellendus doloremque ex beatae, labore sequi debitis mollitia? Consectetur?</p>
           </div>
       </div>   
+    </section>
+
+    <section class="container-fluid bioMosa">
+      <div class="row">
+        <div class="col-sm-6">
+          <img src="/img/clients/trader_mosa.png" alt="" height="100%" width="100%">
+        </div>
+        <div class="col-sm-6" style="text-align: justify;">
+            <h2><b>The Founder</b></h2>
+            <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempore corporis facilis itaque voluptatibus fugit architecto, iure soluta quia tenetur culpa perspiciatis voluptate, minima eveniet quasi veniam mollitia minus fuga.
+            lorem10
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod consequuntur eaque recusandae? Pariatur, animi reiciendis aliquam dolor magnam libero nemo. Harum voluptas, magni obcaecati id iusto illum beatae nobis sit dolore minima sint sunt deserunt saepe eius ipsum quis, ullam autem. Suscipit voluptatibus dolorem tempore. Neque voluptate soluta, sunt cum, accusantium consequatur natus suscipit ullam maxime autem totam fugit vero ab veniam iure. Tenetur natus, tempore quidem consequatur commodi vitae doloremque quo corporis quae iste hic ullam quisquam praesentium nisi velit facilis tempora ipsa asperiores optio nostrum officiis magni? Ab in, voluptas architecto ratione saepe labore quae iure tenetur minus, expedita,</p>
+            <p>
+            corporis vitae eius. Totam ab delectus commodi, consequuntur deserunt eligendi quo omnis, facilis nisi sint adipisci consequatur expedita eos, suscipit hic! Voluptatum facere et eius aliquam ab dolorum accusantium ex non debitis iusto doloribus neque, obcaecati veritatis doloremque possimus omnis similique explicabo! Quod officiis quibusdam tenetur, est vel unde harum aliquid illo corrupti quidem eius odio magni dolores numquam nihil nam eos maxime ex ducimus at laboriosam id cum? Eos nihil quis repellat ullam praesentium aut quaerat cupiditate recusandae repudiandae quibusdam non voluptatem iure commodi incidunt vero consequatur esse odio perferendis molestiae veritatis voluptates, velit illum? Ex, quidem amet!
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim incidunt repellat, doloribus adipisci fugiat nisi ab quis voluptatem molestias asperiores odio sit ducimus in unde sequi, vel quasi harum labore.
+            </p>
+            <p>
+            corporis vitae eius. Totam ab delectus commodi, consequuntur deserunt eligendi quo omnis, facilis nisi sint adipisci consequatur expedita eos, suscipit hic! Voluptatum facere et eius aliquam ab dolorum accusantium ex non debitis iusto doloribus neque, obcaecati veritatis doloremque possimus omnis similique explicabo! Quod officiis quibusdam tenetur, est vel unde harum aliquid illo corrupti quidem eius odio magni dolores numquam nihil nam eos maxime ex ducimus at laboriosam id cum? Eos nihil quis repellat ullam praesentium aut quaerat cupiditate recusandae repudiandae quibusdam non voluptatem iure commodi incidunt vero consequatur esse odio perferendis molestiae veritatis voluptates, velit illum? Ex, quidem amet!
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim incidunt repellat, doloribus adipisci fugiat nisi ab quis voluptatem molestias asperiores odio sit ducimus in unde sequi, vel quasi harum labore.
+            </p>
+    </div>
+      </div>
     </section>
 
     <!-- ======= About Us Section ======= -->
@@ -301,7 +324,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <h4 class="title"><a href="">Kelas privat berbayar</a></h4>
               <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
@@ -309,7 +332,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <h4 class="title"><a href="">Software trading</a></h4>
               <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
@@ -317,7 +340,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <h4 class="title"><a href="">Video trading</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
@@ -325,7 +348,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <h4 class="title"><a href="">Meet our all mentor</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
@@ -730,7 +753,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="/img/team/ais1.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -748,7 +771,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="/img/team/fahri1.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -766,7 +789,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="/img/team/niko1.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -784,7 +807,25 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="/img/team/gusti1.png" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Amanda Jepson</h4>
+                <span>Accountant</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="/img/team/jibon.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -959,7 +1000,7 @@
               <div class="social-links">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.instagram.com/ypcteam_mosa/" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
                 <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
