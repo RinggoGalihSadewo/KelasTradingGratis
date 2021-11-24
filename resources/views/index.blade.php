@@ -5,22 +5,22 @@
 @section('container')
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
-    <div class="container-fluid d-flex align-items-center justify-content-between">
+    <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo d-flex align-items-center">
-        <a href="{{url('/')}}"><img src="/img/clients/131.png" class="Logo" alt="Kursus Trading Gratis"></a>
-        <h1><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
+        <a href="{{url('/')}}"><img src="/img/logo.png" class="Logo my-3" alt="Kursus Trading Gratis"></a>
+        <h1 style="margin-left: 10px"><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#join">Join us</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#about">About</a></li> -->
           <li><a class="nav-link scrollto" href="#services">Fasilitas</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto " href="#testimonials">Testimonials</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li> -->
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -39,7 +39,7 @@
             </ul>
           </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="#services">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -68,7 +68,7 @@
           <!-- <h2>8.000+ Aktif</h2>
           <h2>20.000+ Orang telah mendaftar</h2> -->
           <div data-aos="fade-up" data-aos-delay="800">
-            <a href="#about" class="btn-get-started scrollto">Mulai</a>
+            <a href="#join" class="btn-get-started scrollto">Mulai</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
@@ -99,8 +99,8 @@
           
           <div class="d-flex justify-content-center align-items-center" >
             <div class="joingrup">
-              <div class="row" data-aos="fade-up" data-aos-delay="200">
-                <div class="col-lg-6">       
+              <div class="row">
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">       
                 <h3>Ingin daftar ? klik tombol dibawah ini</h3>
                 <center>
                 <a href="https://quotex-broker.com/?lid=16286" target="_blank">
@@ -109,7 +109,7 @@
                 </center>  
                 </div>
 
-                <div class="col-lg-6 mt-4 mt-sm-0">       
+                <div class="col-lg-6 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="400">       
                 <h3>Gabung grup telegram kami dibawah ini</h3>
                 <center>
                 <a href="https://quotex-broker.com/?lid=16286" target="_blank">
@@ -153,23 +153,23 @@
   
 
   <main id="main">
-  <section data-aos="fade-right" data-aos-delay="200">
+  <section>
     <div class="container d-flex align-items-center justify-content-center">
       <div class="join">
         <div class="row">
-          <div class="col-lg-3">
+          <div class="col-lg-3" data-aos="fade-right" data-aos-delay="200">
             <h4>150.000+</h4>
             <p>Orang telah profit bersama kami</p>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-3" data-aos="fade-right" data-aos-delay="300">
             <h4>15.000+</h4>
             <p>Orang telah mendaftar</p>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-3" data-aos="fade-right" data-aos-delay="400">
             <h4>5.000+</h4>
             <p>Member aktif</p>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-3" data-aos="fade-right" data-aos-delay="500">
             <h4>Everyday</h4>
             <p>Materi pembelajan</p>
           </div>
@@ -178,7 +178,7 @@
     </div>
   </section>
 
-      <div data-aos="fade-up" data-aos-delay="200">
+      <div data-aos="fade-up" data-aos-delay="600">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,224L48,224C96,224,192,224,288,218.7C384,213,480,203,576,165.3C672,128,768,64,864,74.7C960,85,1056,171,1152,197.3C1248,224,1344,192,1392,176L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
       </div>
       <!-- End Clients Section -->
@@ -204,12 +204,12 @@
       </div>   
     </section>
 
-    <section class="container-fluid bioMosa">
+    <section class="container-fluid bioMosa" data-aos="zoom-in" data-aos-delay="100">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-xl-6 col-12" data-aos="fade-right" data-aos-delay="300">
           <img src="/img/clients/trader_mosa.png" alt="" height="100%" width="100%">
         </div>
-        <div class="col-sm-6" style="text-align: justify;">
+        <div class="col-xl-6 col-12" style="text-align: justify;" data-aos="fade-right" data-aos-delay="600">
             <h2><b>The Founder</b></h2>
             <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempore corporis facilis itaque voluptatibus fugit architecto, iure soluta quia tenetur culpa perspiciatis voluptate, minima eveniet quasi veniam mollitia minus fuga.
@@ -228,7 +228,7 @@
     </section>
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
+    <!-- <section id="about" class="about">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -258,10 +258,10 @@
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section>End About Us Section -->
 
     <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
+    <!-- <section id="counts" class="counts">
       <div class="container">
 
         <div class="row">
@@ -304,12 +304,12 @@
                   </div>
                 </div>
               </div>
-            </div><!-- End .content-->
+            </div>
           </div>
         </div>
 
       </div>
-    </section><!-- End Counts Section -->
+    </section>End Counts Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
@@ -366,7 +366,7 @@
           <div class="col-md-6 d-flex align-items-stretch">
             <div class="card" style='background-image: url("/img/more-services-1.jpg");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
-                <h5 class="card-title"><a href="">Lobira Duno</a></h5>
+                <h5 class="card-title"><a href="">Kelas privat berbayar</a></h5>
                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
@@ -375,7 +375,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="card" style='background-image: url("/img/more-services-2.jpg");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
-                <h5 class="card-title"><a href="">Limere Radses</a></h5>
+                <h5 class="card-title"><a href="">Software trading</a></h5>
                 <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
@@ -383,18 +383,18 @@
 
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4">
-            <div class="card" style='background-image: url("/img/more-services-3.jpg");' data-aos="fade-up" data-aos-delay="100">
+            <div class="card" style='background-image: url("/img/youtube.png");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
-                <h5 class="card-title"><a href="">Nive Lodo</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores.</p>
-                <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+                <h5 class="card-title"><a href="https://www.youtube.com/channel/UCP4yIY56OTM1j51GuSCSDUA" target="_blank">Video Trading</a></h5>
+                <p class="card-text">Memberikan video gratis edukasi ilmu tentang trading</p>
+                <div class="read-more"><a href="https://www.youtube.com/channel/UCP4yIY56OTM1j51GuSCSDUA" target="_blank"><i class="bi bi-arrow-right"></i> Lihat video</a></div>
               </div>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4">
             <div class="card" style='background-image: url("/img/more-services-4.jpg");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
-                <h5 class="card-title"><a href="">Pale Treda</a></h5>
+                <h5 class="card-title"><a href="">Meet our all mentor</a></h5>
                 <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
@@ -406,7 +406,7 @@
     </section><!-- End More Services Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+    <!-- <section id="features" class="features">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -490,7 +490,7 @@
         </div>
 
       </div>
-    </section><!-- End Features Section -->
+    </section>End Features Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
@@ -587,7 +587,7 @@
     </section><!-- End Testimonials Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <!-- <section id="portfolio" class="portfolio">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -737,7 +737,7 @@
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section>End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -823,9 +823,27 @@
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member" data-aos="fade-up" data-aos-delay="500">
               <div class="member-img">
                 <img src="/img/team/jibon.png" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Amanda Jepson</h4>
+                <span>Accountant</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="600">
+              <div class="member-img">
+                <img src="/img/team/panji.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -846,7 +864,7 @@
     </section><!-- End Team Section -->
 
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
+    <!-- <section id="pricing" class="pricing">
       <div class="container">
 
         <div class="section-title">
@@ -910,24 +928,24 @@
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section>End Pricing Section -->
 
     <!-- ======= F.A.Q Section ======= -->
     <section id="faq" class="faq">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Frequently Asked Questions</h2>
+          <h2>Pertanyaan ummum</h2>
         </div>
 
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Non consectetur a erat nam at lectus urna duis?</h4>
+            <h4>Apa itu kursus trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              Kursus trading gratis adalah sebuah tempat edukasi belajar trading secara gratis bagi semua kalangan.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -935,11 +953,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h4>
+            <h4>Siapa saja mentor kursus trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
+              Mentor pada kursus trading gratis adalah Jodi, ais, fahri, panji, aji, niko, gusti.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -947,35 +965,47 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?</h4>
+            <h4>Layanan apa saja yang tersedia di kursus trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus.
+              Layanan - layanan yang tersedia pada kursus trading gratis adalah kelas privat berbayar, software trading, video trading dan meet out all mentor.
             </p>
           </div>
-        </div><!-- End F.A.Q Item-->
+        </div>
 
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+        <!-- <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h4>
+            <h4>Berapa lama masa langganan kursus trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
               Aperiam itaque sit optio et deleniti eos nihil quidem cumque. Voluptas dolorum accusantium sunt sit enim. Provident consequuntur quam aut reiciendis qui rerum dolorem sit odio. Repellat assumenda soluta sunt pariatur error doloribus fuga.
             </p>
           </div>
-        </div><!-- End F.A.Q Item-->
+        </div> -->
 
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
+        <!-- <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h4>
+            <h4>Bagaimana cara memperpanjang masa langganan ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
               Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+            </p>
+          </div>
+        </div> -->
+        
+        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="600">
+          <div class="col-lg-5">
+            <i class="ri-question-line"></i>
+            <h4>Syarat utama menjadi member kursus trading gratis ?</h4>
+          </div>
+          <div class="col-lg-7">
+            <p>
+              Minimal berusia 18 tahun, memiliki KTP dan memiliki rekening bank.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -998,7 +1028,7 @@
               <h3>Kelas Trading Gratis</h3>
               <p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
               <div class="social-links">
-                <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+                <a href="https://www.youtube.com/channel/UCP4yIY56OTM1j51GuSCSDUA" class="twitter" target="_blank"><i class="bi bi-youtube"></i></a>
                 <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                 <a href="https://www.instagram.com/ypcteam_mosa/" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
                 <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
@@ -1010,17 +1040,21 @@
             <div class="info">
               <div>
                 <i class="ri-map-pin-line"></i>
-                <p>A108 Adam Street<br>New York, NY 535022</p>
+                <p>Perumahan Villa Tirtayasa<br>Bandar Lampung</p>
               </div>
 
               <div>
+                <a href="mailto:ypcteammosa@gmail.com" target="_blank">
                 <i class="ri-mail-send-line"></i>
-                <p>info@example.com</p>
+                <p style="color: #444444">ypcteammosa@gmail.com</p>
+                </a>
               </div>
 
               <div>
+                <a href="tel:+6281274421371" target="_blank">
                 <i class="ri-phone-line"></i>
-                <p>+1 5589 55488 55s</p>
+                <p style="color: #444444">+6281274421371</p>
+                </a>
               </div>
 
             </div>
@@ -1069,7 +1103,7 @@
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/vesperr-free-bootstrap-template/ -->
-            Development by <a href="https://www.instagram.com/ypcteam_mosa/" target="_blank">Kelas Trading Gratis</a>
+            Development by <a href="https://www.instagram.com/ringgo.gs/" target="_blank">Ringgo</a>
           </div>
         </div>
         <div class="col-lg-6">

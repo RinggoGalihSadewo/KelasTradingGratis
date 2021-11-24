@@ -8,7 +8,7 @@
   <title>@yield('title')</title>
 
   <!-- Favicons -->
-  <link href="/img/clients/UIY.png" rel="icon" size="64x64">
+  <link href="/img/logo.png" rel="icon" size="64x64">
   <!-- <link href="/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
