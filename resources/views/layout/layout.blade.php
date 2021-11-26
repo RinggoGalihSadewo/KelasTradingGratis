@@ -32,6 +32,24 @@
 
   @yield('container')
 
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+    <div class="container text-center">
+      <div class="row d-flex align-items-center">
+        <div class="text-center">
+          <div class="copyright">
+            &copy; Copyright <strong>Kelas Trading Gratis</strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+            Development by <a href="https://www.instagram.com/ringgo.gs/" target="_blank">Ringgo</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
   <!-- Vendor JS Files -->
   <script src="/vendor/aos/aos.js"></script>
   <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

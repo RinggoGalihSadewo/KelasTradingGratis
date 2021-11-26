@@ -16,3 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/kelas-private-berbayar', function () {
+    return view('kelasPrivateBerbayar');
+});
+
+Route::get('/software-trading', function () {
+    return view('softwareTrading');
+});
