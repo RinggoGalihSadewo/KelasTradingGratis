@@ -41,7 +41,7 @@
             &copy; Copyright <strong>Kelas Trading Gratis</strong>. All Rights Reserved
           </div>
           <div class="credits">
-            Development by <a href="https://www.instagram.com/ringgo.gs/" target="_blank">Ringgo</a>
+            Development by <a href="https://www.instagram.com/ringgo.gs/" target="_blank">Zailon Trader</a>
           </div>
         </div>
       </div>

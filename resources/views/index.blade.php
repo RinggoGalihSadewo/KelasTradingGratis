@@ -159,9 +159,9 @@
     <section class="container-fluid bioMosa" data-aos="zoom-in" data-aos-delay="100">
       <div class="row">
         <div class="col-lg-6 col-12" data-aos="fade-right" data-aos-delay="300">
-          <img src="/img/clients/trader_mosa2_1.png" alt="" height="100%" width="100%">
+          <img src="/img/clients/trader_mosa2_1.png" alt="">
         </div>
-        <div class="col-lg-6 col-12" style="text-align: justify; font-size: 20px; padding: 0 auto;" data-aos="fade-right" data-aos-delay="600">
+        <div class="col-lg-6 col-12 bioMosaBody" style="text-align: justify; padding: 0 auto;" data-aos="fade-right" data-aos-delay="600">
             <h2><b>The Founder</b></h2>
             <p><b>
             Hai, Saya Mosa biasa dipanggil Trader Mosa
