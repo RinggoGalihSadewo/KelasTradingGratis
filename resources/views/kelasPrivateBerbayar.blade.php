@@ -22,7 +22,7 @@
 
     </div>
   </header>
-  <!-- End Header -->
+  <!-- End Header --> 
 
   <section id="contact" class="contact">
   <div class="container" style="margin-top: 8%">
@@ -73,34 +73,35 @@
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
-        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button> 
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/img/slides/slide1.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide1.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/slides/slide2.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide2.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/slides/slide3.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide3.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/slides/slide4.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide4.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/slides/slide5.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide5.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/slides/slide6.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide6.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/slides/slide7.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide7.png" class="d-block w-100" alt="...">
         </div>7
         <div class="carousel-item">
-          <img src="/img/slides/slide8.jpg" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide8.png" class="d-block w-100" alt="...">
         </div>
       </div>
 

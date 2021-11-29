@@ -37,7 +37,7 @@
               </ul>
           </div>
           <div class="col-lg-6">
-              <img src="/img/clients/software.PNG" alt="" class="img-fluid">
+              <img src="/img/compress/software.PNG" alt="" class="img-fluid">
           </div>
       </div>
 

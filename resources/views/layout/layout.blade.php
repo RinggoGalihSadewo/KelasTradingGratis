@@ -5,6 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+  <meta name="description" content="Kelas Trading Gratis adalah sebuah kelas trading yang mengajarkan tentang ilmu trading melalui para mentor trading professional">
+
+  <meta name="keywords" content="kelas trading gratis, belajar trading, tutorial trading, quotex">
+
+  <meta name="author" content="Zailon Trader"> 
+ 
+
   <title>@yield('title')</title>
 
   <!-- Favicons -->
@@ -58,6 +65,7 @@
   <script src="/vendor/php-email-form/validate.js"></script>
   <script src="/vendor/purecounter/purecounter.js"></script>
   <script src="/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="https://kit.fontawesome.com/dfa1cbbb7b.js" crossorigin="anonymous"></script>
 
   <!-- Template Main JS File -->
   <script src="/js/main.js"></script>

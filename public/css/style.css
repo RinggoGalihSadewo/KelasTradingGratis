@@ -401,6 +401,11 @@ section {
   overflow: hidden;
 }
 
+/* .contact{
+  padding-top: 25px;
+  margin-top: -3%;
+} */
+
 .section-bg {
   background-color: #f7fbfe;
 }
@@ -1004,7 +1009,7 @@ section {
   position: relative;
   overflow: hidden;
 }
-.team .member .social {
+/* .team .member .social {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -1030,7 +1035,7 @@ section {
 }
 .team .member .social a:hover {
   color: #e3c817;
-}
+} */
 .team .member .social i {
   font-size: 18px;
   margin: 0 2px;
@@ -1400,7 +1405,7 @@ section {
 }
 .bioMosa{
   width: 100%;
-  background-image: url('/img/flat3.jpg');
+  background-image: url('/img/compress/flat3.jpg');
   background-size: cover;
 }
 .bioMosa img{
@@ -1463,6 +1468,9 @@ section {
     padding: 10px;
     box-sizing: border-box;
   }
+  .more-services .card-body p{
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 320px){
@@ -1476,5 +1484,6 @@ section {
     font-size: 10px;
   }
 }
+
 
 

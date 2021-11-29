@@ -149,19 +149,19 @@
             </div>
           </div>
           <div class="col-lg-4 col-12 mt-4" data-aos="fade-left" data-aos-delay="200" style="text-align: justify">
-            <p>Kelas berbasis online yg bisa diakses Kapanpun Dimanapun.Temukan misteri sukses para trader berdasarkan nol sampai mahir disini. Buat uang Kalian berkembang menggunakan daftar & praktek secara eksklusif buat mencapai profit konsisten.
+            <p>Kelas berbasis online yg bisa diakses Kapanpun Dimanapun. Temukan misteri sukses para trader berdasarkan nol sampai mahir disini. Buat uang Kalian berkembang menggunakan daftar & praktek secara eksklusif buat mencapai profit konsisten.
             <br><br>
             “<b>Trading hanya boleh dilakukan oleh umur 18 + dan trading memiliki resiko yang tinggi tetapi profit yang diberikan juga tinggi</b>”</p>
           </div>
       </div>   
     </section>
 
-    <section class="container-fluid bioMosa" data-aos="zoom-in" data-aos-delay="100">
+    <section class="bioMosa" data-aos="zoom-in" data-aos-delay="100">
       <div class="row">
         <div class="col-lg-6 col-12" data-aos="fade-right" data-aos-delay="300">
-          <img src="/img/clients/trader_mosa2_1.png" alt="">
+          <img src="/img/compress/trader_mosa2_1.png" alt="">
         </div>
-        <div class="col-lg-6 col-12 bioMosaBody" style="text-align: justify; padding: 0 auto;" data-aos="fade-right" data-aos-delay="600">
+        <div class="col-lg-6 col-12 bioMosaBody" style="text-align: justify; padding:20px;" data-aos="fade-right" data-aos-delay="600">
             <h2><b>The Founder</b></h2>
             <p><b>
             Hai, Saya Mosa biasa dipanggil Trader Mosa
@@ -197,7 +197,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch">
-            <div class="card" style='background-image: url("/img/clients/kelas.PNG");' data-aos="fade-up" data-aos-delay="100">
+            <div class="card" style='background-image: url("/img/compress/kelas.png");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
                 <h5 class="card-title"><a href="{{url('/kelas-private-berbayar')}}" target="_blank">Kelas privat berbayar</a></h5>
                 <p class="card-text">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu full hanya dengan 1.5 juta dan langsung founder atau mentor utama yang memberi materi.</p>
@@ -206,7 +206,7 @@
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-            <div class="card" style='background-image: url("/img/youtube.png");' data-aos="fade-up" data-aos-delay="200">
+            <div class="card" style='background-image: url("/img/compress/youtube.png");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Software trading</a></h5>
                 <p class="card-text">Kelas Trading Gratis menyediakan alat bantu analisa untuk trading berupa software dengan harga 500.000,-</p>
@@ -216,7 +216,7 @@
 
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4">
-            <div class="card" style='background-image: url("/img/clients/videoBG.PNG");' data-aos="fade-up" data-aos-delay="100">
+            <div class="card" style='background-image: url("/img/compress/videoBG.png");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
                 <h5 class="card-title"><a href="https://www.youtube.com/channel/UCP4yIY56OTM1j51GuSCSDUA" target="_blank">Video Trading</a></h5>
                 <p class="card-text">Memberikan video gratis edukasi ilmu tentang trading</p>
@@ -225,7 +225,7 @@
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4">
-            <div class="card" style='background-image: url("/img/allMentor.jpg");' data-aos="fade-up" data-aos-delay="200">
+            <div class="card" style='background-image: url("/img/compress/allMentor.jpg");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
                 <h5 class="card-title"><a href="#team">Meet our all mentor</a></h5>
                 <p class="card-text">Disini founder atau mentor utama Kelas Trading Gratis, menyediakan pilihan mentor handal yang ada di Kelas Trading Gratis ini dan sudah terlatih.</p>
@@ -241,7 +241,7 @@
     <section id="testimonials" class="testimonials section-bg">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
-          <h2>Testimonials</h2>
+          <h2>Testimoni</h2>
           <!-- <p>Magnam dolores commodi suscipit eum quidem consectetur velit</p> -->
         </div>
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -330,119 +330,122 @@
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
-      <div class="container">
+      <div class="container ">
 
         <div class="section-title" data-aos="fade-up">
           <h2>Mentor</h2>
         </div>
 
-        <div class="row">
+        <div class="row d-sm-flex justify-content-center">
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <a href="https://linktr.ee/FrzTrade" target="_blank">
               <div class="member-img">
-                <img src="/img/team/ais1.png" class="img-fluid" alt="">
-                <div class="social">
+                <img src="/img/compress/ais1.png" class="img-fluid" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
                 <h4>Frz Trader</h4>
-                <span>Chief Executive Officer</span>
+                <!-- <span>Mentor</span> -->
+                <span><a href="https://linktr.ee/FrzTrade" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
               </div>
+              </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <a href="" target="_blank">
               <div class="member-img">
-                <img src="/img/team/fahri1.png" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                <img src="/img/compress/fahri1.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Ryzen Trader</h4>
-                <span>Product Manager</span>
+                <!-- <span>Mentor</span> -->
+                <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
               </div>
+              </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="600">
+              <a href="https://linktr.ee/Panjiakbar" target="_blank">
               <div class="member-img">
-                <img src="/img/team/panji.png" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                <img src="/img/compress/panji.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Webster Trader</h4>
-                <span>Accountant</span>
+                <!-- <span>Mentor</span> -->
+                <span><a href="https://linktr.ee/Panjiakbar" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
               </div>
+              </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <a href="" target="_blank">
               <div class="member-img">
-                <img src="/img/team/gusti1.png" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                <img src="/img/compress/gusti1.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Bionic Trader</h4>
-                <span>Accountant</span>
+                <!-- <span>Mentor</span> -->
+                <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
               </div>
+              </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="500">
+              <a href="https://linktr.ee/Theoajisaputra" target="_blank">
               <div class="member-img">
-                <img src="/img/team/jibon.png" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                <img src="/img/compress/jibon.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Theo Trader</h4>
-                <span>Accountant</span>
+                <!-- <span>Mentor</span> -->
+                <span><a href="https://linktr.ee/Theoajisaputra" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
               </div>
+              </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member" data-aos="fade-up" data-aos-delay="800">
+              <a href="https://linktr.ee/romanstrade" target="_blank">
               <div class="member-img">
-                <img src="/img/team/niko1.png" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                <img src="/img/compress/niko1.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Romans Trader</h4>
-                <span>CTO</span>
+                <!-- <span>Mentor</span> -->
+                <span><a href="https://linktr.ee/romanstrade" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
               </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="1000">
+              <a href="" target="_blank">
+              <div class="member-img">
+                <img src="/img/compress/ringgo.png" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Zailon Trader</h4>
+                <!-- <span>Mentor</span> -->
+                <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -476,7 +479,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-              Mentor pada kursus trading gratis adalah Mosa, Frz, Ryzen, Webster, Theo, Romans, Bionic.
+              Mentor pada kursus trading gratis adalah Mosa, Frz, Ryzen, Webster, Theo, Romans, Bionic, Zailon.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -516,12 +519,12 @@
           <h2>Contact Us</h2>
         </div>
 
-        <div class="row">
+        <div class="row mt-3">
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-about">
               <h3>Kelas Trading Gratis</h3>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor veritatis suscipit corrupti culpa minima commodi odit vel explicabo quod voluptates optio laborum eos in cumque quasi, maiores ipsam! At, minus.</p>
+              <p>Kelas Trading Gratis adalah sebuah kelas trading yang mengajarkan tentang ilmu trading melalui para mentor trading professional</p>
             </div>
           </div>
 
