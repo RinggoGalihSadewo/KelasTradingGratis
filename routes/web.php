@@ -24,3 +24,7 @@ Route::get('/kelas-private-berbayar', function () {
 Route::get('/software-trading', function () {
     return view('softwareTrading');
 });
+
+Route::get('/tour-trading', function () {
+    return view('tourTrading');
+});

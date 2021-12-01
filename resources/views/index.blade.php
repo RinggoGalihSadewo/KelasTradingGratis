@@ -29,7 +29,7 @@
   </header>
   <!-- End Header -->
 
-  <section class="wave1" style="height:270px">
+  <section class="wave1">
     <div class="row">
       <div class="col-12">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e3c817" fill-opacity="1" d="M0,128L48,144C96,160,192,192,288,181.3C384,171,480,117,576,85.3C672,53,768,43,864,58.7C960,75,1056,117,1152,117.3C1248,117,1344,75,1392,53.3L1440,32L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
@@ -82,11 +82,11 @@
                 </center>  
                 </div>
 
-                <div class="col-lg-4 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="200">       
-                <h3>Daftar Oxtrade ? klik tombol dibawah ini</h3>
+                <div class="col-lg-4 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="400">       
+                <h3>Daftar Binomo ? klik tombol dibawah ini</h3>
                 <center>
-                <a href="http://kursustradingmosa.com" target="_blank">
-                <img src="/img/clients/btnOxtrade.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
+                <a href="" target="_blank">
+                <img src="/img/clients/btnBinomo.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
                 </div>
@@ -353,7 +353,7 @@
               <div class="member-info">
                 <h4>Frz Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/FrzTrade" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+                <span><a href="https://linktr.ee/FrzTrade" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3" style="width:250px"></a></span>
               </div>
               </a>
             </div>
@@ -368,7 +368,8 @@
               <div class="member-info">
                 <h4>Ryzen Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+                <span><a href="" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
             </div>
@@ -383,7 +384,8 @@
               <div class="member-info">
                 <h4>Webster Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/Panjiakbar" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+                <span><a href="https://linktr.ee/Panjiakbar" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <!-- <span><a href="https://linktr.ee/Panjiakbar" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
             </div>
@@ -398,7 +400,8 @@
               <div class="member-info">
                 <h4>Bionic Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+                <span><a href="" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
             </div>
@@ -413,7 +416,8 @@
               <div class="member-info">
                 <h4>Theo Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/Theoajisaputra" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+                <span><a href="https://linktr.ee/Theoajisaputra" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <!-- <span><a href="https://linktr.ee/Theoajisaputra" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
             </div>
@@ -428,7 +432,8 @@
               <div class="member-info">
                 <h4>Romans Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/romanstrade" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+                <span><a href="https://linktr.ee/romanstrade" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <!-- <span><a href="https://linktr.ee/romanstrade" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
             </div>
@@ -443,7 +448,8 @@
               <div class="member-info">
                 <h4>Zailon Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span>
+                <span><a href="" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
             </div>
@@ -543,8 +549,8 @@
               </div>
 
               <div>
-                <a href="tel:+6281274421371" target="_blank">
-                <i class="ri-phone-line"></i>
+                <a href="https://api.whatsapp.com/send?phone=+6281274421371&text=Halo, saya%20pengguna%20Kelas%20Trading%20Gratis" target="_blank">
+                <i class="ri-whatsapp-line"></i>
                 <p style="color: #444444">+6281274421371</p>
                 </a>
               </div>

@@ -451,7 +451,7 @@ section {
   justify-content: center;
 }
 .clients img {
-  width: 50%;
+  width: 70%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 10px 0;
@@ -1393,6 +1393,13 @@ section {
 
 
 /* My style */
+.wave1{
+  height: 270px;
+}
+.wave1 svg{
+  height: 100%;
+  width: 100%;
+}
 .youtube{
   height: auto ;
 }
