@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\siteMap;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -28,3 +30,5 @@ Route::get('/software-trading', function () {
 Route::get('/tour-trading', function () {
     return view('tourTrading');
 });
+
+Route::get('/sitemap.xml', [siteMap::class, 'index']);
