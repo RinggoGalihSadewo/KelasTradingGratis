@@ -35,6 +35,7 @@
                   <li>Open posisi dituntun menggunakan signal dari software</li>
                   <li>Raihlah profit hingga ratusan juta</li>
               </ul>
+              <p>Harga software alat bantu trading hanya <b>500 rb</b></p>
           </div>
           <div class="col-lg-6">
               <img src="/img/compress/software.PNG" alt="" class="img-fluid">

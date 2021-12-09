@@ -31,9 +31,9 @@
 
     <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
       <div class="contact-about">
-        <h3>Kelas Trading Gratis</h3>
+        <h3>Kelas Trading Gratis (Private)</h3>
         <div style="color: black; font-size: 18px;">
-        <p style="color: black; font-size: 18px;">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu full hanya dengan 1.5 juta dan langsung founder atau mentor utama yang memberi materi.</p>
+        <p style="color: black; font-size: 18px;">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu full hanya dengan <b> 750 rb </b> dan langsung founder atau mentor utama yang memberi materi.</p>
         <p style="color: black; font-size: 18px;">Fasilitas yang akan diberikan selama private 2 minggu adalah : </p>
         <ul style="color: black; font-size: 18px;">
           <li>

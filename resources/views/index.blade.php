@@ -20,7 +20,7 @@
           <li><a class="nav-link scrollto " href="#testimonials">Testimonials</a></li>
           <li><a class="nav-link scrollto" href="#team">Mentor</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#services">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="#join">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -54,7 +54,7 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="/img/hero-img3.png" class="img-fluid animated" alt="Mosa and Quotex">
+          <img src="/img/hero-img3.png" class="img-fluid animated" alt="Kelas Trading Gratis" title="Kelas Trading Gratis">
         </div>
       </div>
     </div>
@@ -76,7 +76,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">       
                 <h3>Daftar Quotex ? klik tombol dibawah ini</h3>
                 <center>
-                <a href="http://daftarquotexindonesia.com" target="_blank">
+                <a href="http://quotex-brokeridn.com" target="_blank">
                 <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="400">       
                 <h3>Daftar Binomo ? klik tombol dibawah ini</h3>
                 <center>
-                <a href="" target="_blank">
+                <a href="https://binomo-web.com?a=3b4f4c69d867" target="_blank">
                 <img src="/img/clients/btnBinomo.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
@@ -227,7 +227,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4">
             <div class="card" style='background-image: url("/img/compress/allMentor.jpg");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
-                <h5 class="card-title"><a href="#team">Meet our all mentor</a></h5>
+                <h5 class="card-title"><a href="#team">Belajar Trading Gratis Bersama Mentor Terbaik</a></h5>
                 <p class="card-text">Disini founder atau mentor utama Kelas Trading Gratis, menyediakan pilihan mentor handal yang ada di Kelas Trading Gratis ini dan sudah terlatih.</p>
                 <div class="read-more"><a href="#team"><i class="bi bi-arrow-right"></i> Klik disini untuk baca selengkapnya</a></div>
               </div>
@@ -242,19 +242,18 @@
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>Testimoni</h2>
-          <!-- <p>Magnam dolores commodi suscipit eum quidem consectetur velit</p> -->
         </div>
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <img src="/img/testimonials/testi1.jpg" class="testimonial-img" alt="">
+                  <h3>Gina Salsabila</h3>
+                  <h4>Testimoni</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    Ketika saya bergabung dengan kelas trading gratis, saya mendapatkan banyak sekali ilmu tentang trading dari para mentor - mentor professional.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -264,12 +263,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
+                  <img src="/img/testimonials/testi2.jpg" class="testimonial-img" alt="">
+                  <h3>Cahya Indah</h3>
+                  <h4>Testimoni</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    Semenjak saya jadi member disini, saya mampu trading secara mandiri dan mendapat profit yang cukup besar setiap harinya.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -279,12 +278,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+                  <img src="/img/testimonials/testi3.png" class="testimonial-img" alt="">
+                  <h3>Fika Andanda Putri</h3>
+                  <h4>Testimoni</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    Saya tadinya tidak mengerti sama sekali tentang dunia trading tetapi berkat para mentor yang mengajari saya dari 0, saya mendapatkan ilmu trading yang menurut saya ilmu tentang trading ini sangat berguna sekali terlebih lagi pada era digital saat ini.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -294,12 +293,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
+                  <img src="/img/testimonials/testi4.jpg" class="testimonial-img" alt="">
+                  <h3>Angel Fresca</h3>
+                  <h4>Testimoni</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    Saya di ajari bagaimana cara mendapatkan profit yang konsisten setiap harinya oleh mentor saya dan alhamdulilah profit yang saya dapatkan setiap harinya cukup lumayan besar nilainya.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -309,12 +308,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
+                  <img src="/img/testimonials/testi5.png" class="testimonial-img" alt="">
+                  <h3>Ferdi Anta Khoir</h3>
+                  <h4>Testimoni</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    Menurut saya kelas trading gratis adalah tempat yang tepat bagi teman - teman yang ingin belajar trading, harga private nya pun terbilang cukup murah tetapi ilmu yang didapatkan sangatlah mahal.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -361,14 +360,14 @@
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <a href="" target="_blank">
+              <a href="https://linktr.ee/RyzenTrader" target="_blank">
               <div class="member-img">
                 <img src="/img/compress/fahri1.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Ryzen Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/RyzenTrader" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
                 <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -393,14 +392,14 @@
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <a href="" target="_blank">
+              <a href="https://linktr.ee/Gustirandaa" target="_blank">
               <div class="member-img">
                 <img src="/img/compress/gusti1.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Bionic Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/Gustirandaa" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
                 <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
