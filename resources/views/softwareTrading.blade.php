@@ -24,9 +24,9 @@
   </header>
   <!-- End Header -->
 
-  <div class="container software">
+  <div class="container software" data-aos="fade-up" data-aos-delay="200">
       <div class="row">
-          <div class="col-lg-6">
+          <div class="col-lg-6" >
               <h2>Software Trading</h2>
               <ul>
                   <li>Keakuratan aplikasi 75%</li>
@@ -47,7 +47,7 @@
       <div style="color: black; font-size: 18px;">
       <p style="color: black; font-size: 24px;">Bank Transfer : BNI/0974818235 <br> Jika sudah melakukan pembayaran silahkan konfirmasi ke Whatsapp di bawah ini: </p>
       <a href="https://api.whatsapp.com/send?phone=+6281274421371&text=Halo, saya%20sudah%20melakukan%20transaksi%20pembelian%20software%20trading%20berikut%20adalah%20screenshot%20pembayaran%20saya" target="_blank">
-        <img src="/img/clients/btnWa.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
+        <img src="/img/clients/btnWa.png" class="img-fluid d-flex justify-content-center mt-0" alt="">
       </a> 
       </div> 
       </div>

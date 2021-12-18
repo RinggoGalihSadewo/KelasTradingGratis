@@ -58,7 +58,7 @@
         <p style="color: black; font-size: 20px">Jika sudah melakukan pembayaran silahkan konfirmasi ke Whatsapp di bawah ini: </p>
         <div style="margin-top: 6%;">
         <a href="https://api.whatsapp.com/send?phone=+6281274421371&text=Halo, saya%20mau%20join%20privatenya%20ini%20adalah%20bukti%20screenshot%20pembayaran%20saya" target="_blank">
-          <img src="/img/clients/btnWa.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
+          <img src="/img/clients/btnWa.png" class="img-fluid d-flex justify-content-center mt-0" alt="">
         </a> 
         </div> 
         </div>

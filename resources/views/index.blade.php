@@ -74,7 +74,7 @@
             <div class="joingrup">
               <div class="row">
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">       
-                <h3>Daftar Quotex ? klik tombol dibawah ini</h3>
+                <h4>Daftar Quotex ? klik tombol dibawah ini</h4>
                 <center>
                 <a href="http://quotex-brokeridn.com" target="_blank">
                 <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
@@ -82,23 +82,33 @@
                 </center>  
                 </div>
 
-                <div class="col-lg-4 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="400">       
-                <h3>Daftar Binomo ? klik tombol dibawah ini</h3>
+                <!-- <div class="col-lg-4 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="400">       
+                <h4>Daftar Binomo ? klik tombol dibawah ini</h4>
                 <center>
                 <a href="https://binomo-web.com?a=3b4f4c69d867" target="_blank">
                 <img src="/img/clients/btnBinomo.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
-                </div>
+                </div> -->
 
                 <div class="col-lg-4 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="400">       
-                <h3>Gabung grup telegram kami dibawah ini</h3>
+                <h4>Gabung grup telegram kami dibawah ini</h4>
                 <center>
                 <a href="https://t.me/quotexmosa" target="_blank">
-                <img src="/img/clients/btnTele2.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
+                <img src="/img/clients/btnTele2.png" class="i mg-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
                 </div>
+
+                <div class="col-lg-4 mt-4 mt-sm-0" data-aos="fade-up" data-aos-delay="400">       
+                <h4>Kunjungi channel youtube kami dibawah ini</h4>
+                <center>
+                <a href="https://www.youtube.com/channel/UCP4yIY56OTM1j51GuSCSDUA" target="_blank">
+                <img src="/img/clients/btnYT.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
+                </a>  
+                </center>  
+                </div>
+
               </div>
             </div>
           </div>
@@ -233,6 +243,18 @@
               </div>
             </div>
           </div>
+          
+          <center>
+          <div class="col-md-6 d-flex align-items-stretch mt-4 justify-content-center">
+            <div class="card img-fluid" style='background-image: url("/img/clients/airSignal.jpg");' data-aos="fade-up" data-aos-delay="250">
+              <div class="card-body">
+                <h5 class="card-title"><a href="{{url('/signal-gratis')}}" target="_blank">Sinyal gratis</a></h5>
+                <p class="card-text">Memberikan signal gratis</p>
+                <div class="read-more"><a href="{{url('/signal-gratis')}}" target="_blank"><i class="bi bi-arrow-right"></i> Klik disini untuk baca selengkapnya</a></div>
+              </div>
+            </div>
+          </div>
+          </center>
         </div>
       </div>
     </section><!-- End More Services Section -->
@@ -341,7 +363,7 @@
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <a href="https://linktr.ee/FrzTrade" target="_blank">
               <div class="member-img">
-                <img src="/img/compress/ais1.png" class="img-fluid" alt="">
+                <img src="/img/team/compress/ais.png" class="img-fluid" alt="">
                 <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -362,7 +384,7 @@
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <a href="https://linktr.ee/RyzenTrader" target="_blank">
               <div class="member-img">
-                <img src="/img/compress/fahri1.png" class="img-fluid" alt="">
+                <img src="/img/team/compress/fahri.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Ryzen Trader</h4>
@@ -378,7 +400,7 @@
             <div class="member" data-aos="fade-up" data-aos-delay="600">
               <a href="https://linktr.ee/Panjiakbar" target="_blank">
               <div class="member-img">
-                <img src="/img/compress/panji.png" class="img-fluid" alt="">
+                <img src="/img/team/compress/panji.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Webster Trader</h4>
@@ -394,7 +416,7 @@
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <a href="https://linktr.ee/Gustirandaa" target="_blank">
               <div class="member-img">
-                <img src="/img/compress/gusti1.png" class="img-fluid" alt="">
+                <img src="/img/team/compress/gusti.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Bionic Trader</h4>
@@ -410,7 +432,7 @@
             <div class="member" data-aos="fade-up" data-aos-delay="500">
               <a href="https://linktr.ee/Theoajisaputra" target="_blank">
               <div class="member-img">
-                <img src="/img/compress/jibon.png" class="img-fluid" alt="">
+                <img src="/img/team/compress/jibon.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Theo Trader</h4>
@@ -426,7 +448,7 @@
             <div class="member" data-aos="fade-up" data-aos-delay="800">
               <a href="https://linktr.ee/romanstrade" target="_blank">
               <div class="member-img">
-                <img src="/img/compress/niko1.png" class="img-fluid" alt="">
+                <img src="/img/team/compress/niko.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Romans Trader</h4>
@@ -440,14 +462,14 @@
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="1000">
-              <a href="" target="_blank">
+              <a href="https://linktr.ee/ringgo.gs" target="_blank">
               <div class="member-img">
-                <img src="/img/compress/ringgo.png" class="img-fluid" alt="">
+                <img src="/img/team/compress/ringgo.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Zailon Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/ringgo.gs" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
                 <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -484,7 +506,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-              Mentor pada kursus trading gratis adalah Mosa, Frz, Ryzen, Webster, Theo, Romans, Bionic, Zailon.
+              Mentor pada kursus trading gratis adalah Frz, Ryzen, Webster, Theo, Romans, Bionic, Zailon.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -538,6 +560,13 @@
               <div>
                 <i class="ri-map-pin-line"></i>
                 <p>Jalan Tirtayasa <br>Bandar Lampung</p>
+              </div>
+
+              <div>
+                <a href="https://www.instagram.com/kelastradinggratis/" target="_blank">
+                <i class="ri-instagram-line"></i>
+                <p style="color: #444444">kelastradinggratis</p>
+                </a>
               </div>
 
               <div>

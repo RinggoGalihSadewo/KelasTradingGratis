@@ -32,3 +32,7 @@ Route::get('/tour-trading', function () {
 });
 
 Route::get('/sitemap.xml', [siteMap::class, 'index']);
+
+Route::get('/signal-gratis', function () {
+    return view('signalGratis');
+});
