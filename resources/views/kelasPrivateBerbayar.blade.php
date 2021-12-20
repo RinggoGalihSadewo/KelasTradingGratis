@@ -80,28 +80,28 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/img/compress/slide1.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide1.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/compress/slide2.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide2.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/compress/slide3.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide3.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/compress/slide4.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide4.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/compress/slide5.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide5.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/compress/slide6.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide6.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="/img/compress/slide7.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide7.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>7
         <div class="carousel-item">
-          <img src="/img/compress/slide8.png" class="d-block w-100" alt="...">
+          <img src="/img/compress/slide8.png" class="d-block w-100 img-thumbnail" alt="...">
         </div>
       </div>
 

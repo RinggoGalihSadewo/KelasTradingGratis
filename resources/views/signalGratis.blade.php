@@ -37,7 +37,7 @@
                 </a> 
                 </div>
                 <div style="margin-top: 5%;" class="text-dark">
-                <p>Jika kalian sudah mengklik tombol diatas dan jika kalian sudah mempunyai akun Quotex silahkan hapus terlebih dahulu atau diblokir lalu klik tombol diatas untuk mendaftarkan akun Quotex yang baru. Jika sudah mendaftarkan akun Quotex, silahkan deposit dengan minimal Rp.200.000</p>
+                <p style="text-align: justify;">Jika kalian sudah mengklik tombol diatas dan jika kalian sudah mempunyai akun Quotex silahkan hapus terlebih dahulu atau diblokir lalu klik tombol diatas untuk mendaftarkan akun Quotex yang baru. Jika sudah mendaftarkan akun Quotex, silahkan deposit dengan minimal Rp.200.000</p>
                 <p>Dan kirim screenshot id Quotex dan bukti deposit kalian, lalu konfirmasi ke whatsapp admin dibawah ini :</p>
 
                 <div style="margin-top: 6%;">
