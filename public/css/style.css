@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -88,16 +90,17 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 1px;
+  font-family: 'Saira', sans-serif;
 }
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #222222;
+  color: #e3c817;
   text-decoration: none;
 }
 #header .logo img {
   padding: 0;
   margin: 0;
-  height: 80 px;
-  width: 80px;
+  height: 85px;
+  width: auto;
 }
 
 /*--------------------------------------------------------------
@@ -1412,7 +1415,7 @@ section {
 }
 .bioMosa{
   width: 100%;
-  background-image: url('/img/compress/flat3.jpg');
+  background-image: url('/img/compress/bg.svg');
   background-size: cover;
 }
 .bioMosa img{

@@ -1,6 +1,20 @@
 @extends('layout/layout')
 
-@section('title','Kelas Trading Gratis')
+@section('meta')
+
+  <meta name="google-site-verification" content="NYhF2UsWbjfNadBON0NRnsBkU4bpXP1F_Bvz1k6amsk">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="title" content="KELAS TRADING GRATIS | Belajar Trading Online Binary Option Quotex">
+  <meta name="description" content="Kelas Trading Gratis adalah sebuah kelas trading yang mengajarkan tentang ilmu trading melalui para mentor trading professional">
+  <meta name="keywords" content="kelas trading gratis, belajar trading, tutorial trading, quotex, kelas trading, trading gratis, trading, belajar trading online">
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  <meta name="author" content="Dev Trader">
+
+@endsection
+
+@section('title','KELAS TRADING GRATIS | Belajar Trading Online Binary Option Quotex')
 
 @section('container')
   <!-- ======= Header ======= -->
@@ -8,8 +22,8 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo d-flex align-items-center">
-        <a href="{{url('/')}}"><img src="/img/logo.png" class="Logo my-3" alt="Kursus Trading Gratis"></a>
-        <h1 style="margin-left: 10px"><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
+        <a href="{{url('/')}}"><img src="/img/nav.png" class="Logo my-3" alt="kelas Trading Gratis"></a>
+        <h1 style="margin-left: 8px;"><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -76,7 +90,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">       
                 <h4>Daftar Quotex ? klik tombol dibawah ini</h4>
                 <center>
-                <a href="http://quotex-brokeridn.com" target="_blank">
+                <a href="http://quotex-brokerid.com" target="_blank">
                 <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
@@ -155,8 +169,8 @@
         <div class="row">
           <div class="col-lg-4 offset-lg-2 col-12" data-aos="fade-right" data-aos-delay="200">
             <div class="embed-responsive embed-responsive-21by9">
-              <iframe width="100%" height="315" src="https://www.youtube.com/embed/K-cTggVYhxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/a-gSzCg0B1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
           </div>
           <div class="col-lg-4 col-12 mt-4" data-aos="fade-left" data-aos-delay="200" style="text-align: justify">
             <p>Kelas berbasis online yg bisa diakses Kapanpun Dimanapun. Temukan misteri sukses para trader berdasarkan nol sampai mahir disini. Buat uang Kalian berkembang menggunakan daftar & praktek secara eksklusif buat mencapai profit konsisten.
@@ -210,7 +224,7 @@
             <div class="card" style='background-image: url("/img/compress/kelas.png");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
                 <h5 class="card-title"><a href="{{url('/kelas-private-berbayar')}}" target="_blank">Kelas privat berbayar</a></h5>
-                <p class="card-text">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu full hanya dengan 1.5 juta dan langsung founder atau mentor utama yang memberi materi.</p>
+                <p class="card-text">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu full hanya dengan 750 rb dan langsung founder atau mentor utama yang memberi materi.</p>
                 <div class="read-more"><a href="{{url('/kelas-private-berbayar')}}" target="_blank"><i class="bi bi-arrow-right"></i> Klik disini untuk baca selengkapnya</a></div>
               </div>
             </div>
@@ -219,7 +233,7 @@
             <div class="card" style='background-image: url("/img/compress/youtube.png");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Software trading</a></h5>
-                <p class="card-text">Kelas Trading Gratis menyediakan alat bantu analisa untuk trading berupa software dengan harga 500.000,-</p>
+                <p class="card-text">Kelas Trading Gratis menyediakan alat bantu analisa untuk trading berupa software dengan harga 750.000,-</p>
                 <div class="read-more"><a href="{{url('/software-trading')}}" target="_blank"><i class="bi bi-arrow-right"></i> Klik disini untuk baca selengkapnya</a></div>
               </div>
             </div>
@@ -246,7 +260,7 @@
           
           <center>
           <div class="col-md-6 d-flex align-items-stretch mt-4 justify-content-center">
-            <div class="card img-fluid" style='background-image: url("/img/clients/airSignal.jpg");' data-aos="fade-up" data-aos-delay="250">
+            <div class="card img-fluid" style='background-image: url("/img/clients/signal.png");' data-aos="fade-up" data-aos-delay="250">
               <div class="card-body">
                 <h5 class="card-title"><a href="{{url('/signal-gratis')}}" target="_blank">Sinyal gratis</a></h5>
                 <p class="card-text">Memberikan signal gratis</p>
@@ -374,7 +388,7 @@
               <div class="member-info">
                 <h4>Frz Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/FrzTrade" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3" style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/FrzTrade" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3" style="width:100%"></a></span>
               </div>
               </a>
             </div>
@@ -389,7 +403,7 @@
               <div class="member-info">
                 <h4>Ryzen Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/RyzenTrader" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/RyzenTrader" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:100%"></a></span>
                 <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -405,7 +419,7 @@
               <div class="member-info">
                 <h4>Webster Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/Panjiakbar" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/Panjiakbar" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:100%"></a></span>
                 <!-- <span><a href="https://linktr.ee/Panjiakbar" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -421,7 +435,7 @@
               <div class="member-info">
                 <h4>Bionic Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/Gustirandaa" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/Gustirandaa" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:100%"></a></span>
                 <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -437,7 +451,7 @@
               <div class="member-info">
                 <h4>Theo Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/Theoajisaputra" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/Theoajisaputra" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:100%"></a></span>
                 <!-- <span><a href="https://linktr.ee/Theoajisaputra" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -453,7 +467,7 @@
               <div class="member-info">
                 <h4>Romans Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/romanstrade" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/romanstrade" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:100%"></a></span>
                 <!-- <span><a href="https://linktr.ee/romanstrade" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -467,9 +481,9 @@
                 <img src="/img/team/compress/ringgo.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Zailon Trader</h4>
+                <h4>Dev Trader</h4>
                 <!-- <span>Mentor</span> -->
-                <span><a href="https://linktr.ee/ringgo.gs" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:250px"></a></span>
+                <span><a href="https://linktr.ee/ringgo.gs" target="_blank"><img src="/img/clients/btnDetail.png" class="mt-3"style="width:100%"></a></span>
                 <!-- <span><a href="" target="_blank"><i class="fas fa-id-card"></i> Linktree</a></span> -->
               </div>
               </a>
@@ -482,7 +496,7 @@
     <!-- ======= F.A.Q Section ======= -->
     <section id="faq" class="faq">
       <div class="container">
-
+      
         <div class="section-title" data-aos="fade-up">
           <h2>Pertanyaan</h2>
         </div>
@@ -490,11 +504,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Apa itu kursus trading gratis ?</h4>
+            <h4>Apa itu kelas trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Kursus trading gratis adalah sebuah tempat edukasi belajar trading secara gratis bagi semua kalangan.
+              Kelas trading gratis adalah sebuah tempat edukasi belajar trading secara gratis bagi semua kalangan.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -502,11 +516,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Siapa saja mentor kursus trading gratis ?</h4>
+            <h4>Siapa saja mentor kelas trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Mentor pada kursus trading gratis adalah Frz, Ryzen, Webster, Theo, Romans, Bionic, Zailon.
+              Mentor pada kelas trading gratis adalah Frz, Ryzen, Webster, Theo, Romans, Bionic, Dev.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -514,11 +528,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Layanan apa saja yang tersedia di kursus trading gratis ?</h4>
+            <h4>Layanan apa saja yang tersedia di kelas trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Layanan - layanan yang tersedia pada kursus trading gratis adalah kelas privat berbayar, software trading, video trading dan meet out all mentor.
+              Layanan - layanan yang tersedia pada kelas trading gratis adalah kelas privat berbayar, software trading, video trading, meet out all mentor dan signal gratis.
             </p>
           </div>
         </div>
@@ -526,7 +540,7 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="600">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Syarat utama menjadi member kursus trading gratis ?</h4>
+            <h4>Syarat utama menjadi member kelas trading gratis ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
@@ -577,9 +591,9 @@
               </div>
 
               <div>
-                <a href="https://api.whatsapp.com/send?phone=+6281274421371&text=Halo, saya%20pengguna%20Kelas%20Trading%20Gratis" target="_blank">
+                <a href="https://api.whatsapp.com/send?phone=+6281272688565&text=Halo, saya%20pengguna%20Kelas%20Trading%20Gratis" target="_blank">
                 <i class="ri-whatsapp-line"></i>
-                <p style="color: #444444">+6281274421371</p>
+                <p style="color: #444444">+6281272688565</p>
                 </a>
               </div>
 

@@ -1,6 +1,20 @@
 @extends('layout/layout')
 
-@section('title','Kelas Private Berbayar')
+@section('meta')
+
+  <meta name="google-site-verification" content="NYhF2UsWbjfNadBON0NRnsBkU4bpXP1F_Bvz1k6amsk">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="title" content="KELAS PRIVATE BERBAYAR | Private Bersama Mentor - Mentor Professional Kami">
+  <meta name="description" content="Kelas Private Berbayar adalah salah satu fasilitas private yang langsung diajari oleh trader mosa atau mentor - mentor professional lainnya">
+  <meta name="keywords" content="kelas trading gratis, kelas private trading, kelas private trading berbayar, kelas private trading gratis, belajar trading, tutorial trading, quotex, kelas trading, trading gratis, trading, belajar trading online">
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  <meta name="author" content="Dev Trader">
+
+@endsection
+
+@section('title','KELAS PRIVATE BERBAYAR | Private Bersama Mentor Professional')
 
 @section('container')
 
@@ -9,8 +23,8 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo d-flex align-items-center">
-        <a href="{{url('/')}}"><img src="/img/logo.png" class="Logo my-3" alt="Kursus Trading Gratis"></a>
-        <h1 style="margin-left: 10px"><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
+        <a href="{{url('/')}}"><img src="/img/nav.png" class="Logo my-3" alt="kelas Trading Gratis"></a>
+        <h1 style="margin-left: 8px;"><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -33,7 +47,7 @@
       <div class="contact-about">
         <h3>Kelas Trading Gratis (Private)</h3>
         <div style="color: black; font-size: 18px;">
-        <p style="color: black; font-size: 18px;">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu full hanya dengan <b> 750 rb </b> dan langsung founder atau mentor utama yang memberi materi.</p>
+        <p style="color: black; font-size: 18px;">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu dengan pertemuan 4x pertemuan dan free konsul selama 2 minggu full hanya dengan <b> 750 rb </b> dan langsung founder atau mentor utama yang memberi materi.</p>
         <p style="color: black; font-size: 18px;">Fasilitas yang akan diberikan selama private 2 minggu adalah : </p>
         <ul style="color: black; font-size: 18px;">
           <li>
@@ -46,7 +60,7 @@
             Mendapatkan PDF teknik trading minimal 5.
           </li>
           <li>
-            Free konsultasi selama 1 bulan mengenai psikologis trading dan money management trading hingga bisa profit konsisten.
+            Free konsultasi selama 2 minggu full mengenai psikologis trading dan money management trading hingga bisa profit konsisten.
           </li>
         </ul>
         </div>
@@ -57,7 +71,7 @@
         <p style="color: black; font-size: 24px;">Bank Transfer : BNI/0974818235</p>
         <p style="color: black; font-size: 20px">Jika sudah melakukan pembayaran silahkan konfirmasi ke Whatsapp di bawah ini: </p>
         <div style="margin-top: 6%;">
-        <a href="https://api.whatsapp.com/send?phone=+6281274421371&text=Halo, saya%20mau%20join%20privatenya%20ini%20adalah%20bukti%20screenshot%20pembayaran%20saya" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=+6281272688565&text=Halo, saya%20mau%20join%20privatenya%20ini%20adalah%20bukti%20screenshot%20pembayaran%20saya" target="_blank">
           <img src="/img/clients/btnWa.png" class="img-fluid d-flex justify-content-center mt-0" alt="">
         </a> 
         </div> 

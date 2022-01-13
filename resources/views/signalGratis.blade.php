@@ -1,6 +1,20 @@
 @extends('layout/layout')
 
-@section('title', 'Signal Gratis')
+@section('meta')
+
+  <meta name="google-site-verification" content="NYhF2UsWbjfNadBON0NRnsBkU4bpXP1F_Bvz1k6amsk">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="title" content="SIGNAL GRATIS | KELAS TRADING GRATIS">
+  <meta name="description" content="Kelas Trading Gratis menyediakan berbagai fasilitas salah satunya adalah signal gratis. Signal gratis akan langsung diberikan oleh admin kelastradinggratis.com jika sudah mengikuti semua syarat - syarat yang tertera.">
+  <meta name="keywords" content="signal quotex, signal gratis, kelas trading gratis, belajar trading, tutorial trading, quotex, kelas trading, trading gratis, trading, belajar trading online">
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  <meta name="author" content="Dev Trader">
+
+@endsection
+
+@section('title', 'SIGNAL GRATIS | Kelas Trading Gratis')
 
 @section('container')
 
@@ -9,8 +23,8 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo d-flex align-items-center">
-        <a href="{{url('/')}}"><img src="/img/logo.png" class="Logo my-3" alt="Kursus Trading Gratis"></a>
-        <h1 style="margin-left: 10px"><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
+        <a href="{{url('/')}}"><img src="/img/nav.png" class="Logo my-3" alt="kelas Trading Gratis"></a>
+        <h1 style="margin-left: 8px;"><a href="{{url('/')}}">Kelas Trading Gratis</a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -31,7 +45,7 @@
                 <h2 class="fw-bold text-dark">SIGNAL GRATIS</h2>
                 <p style="text-align: justify;">Kelas Trading Gratis menyediakan fasilitas signal gratis dengan syarat harus sudah daftar akun Quotex dibawah ini :</p>
                 <div style="margin-top: 7%;">     
-                <a href="http://quotex-brokeridn.com" target="_blank">
+                <a href="http://quotex-brokerid.com" target="_blank">
                 <h4 class="text-dark text-center">Klik tombol dibawah ini</h4>
                 <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center mt-3 animated" alt="" width="100%">
                 </a> 
@@ -41,7 +55,7 @@
                 <p>Dan kirim screenshot id Quotex dan bukti deposit kalian, lalu konfirmasi ke whatsapp admin dibawah ini :</p>
 
                 <div style="margin-top: 6%;">
-                    <a href="https://api.whatsapp.com/send?phone=+6281274421371&text=Halo, saya%20sudah%20mendaftarkan%20akun%20Quotex%20dan%20ini%20bukti%20screenshot%20id%20dan%20jumlah%20deposit%20saya" target="_blank">
+                    <a href="https://api.whatsapp.com/send?phone=+6281272688565&text=Halo, saya%20sudah%20mendaftarkan%20akun%20Quotex%20dan%20ini%20bukti%20screenshot%20id%20dan%20jumlah%20deposit%20saya" target="_blank">
                     <img src="/img/clients/btnWa.png" class="img-fluid d-flex justify-content-center mt-0" alt="">
                     </a> 
                 </div> 

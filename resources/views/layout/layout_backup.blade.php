@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head> 
-
-  @yield('meta')
+<head>
+  <meta name="google-site-verification" content="NYhF2UsWbjfNadBON0NRnsBkU4bpXP1F_Bvz1k6amsk">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="title" content="KELAS TRADING GRATIS | Belajar Trading Online Binary Option Quotex">
+  <meta name="description" content="Kelas Trading Gratis adalah sebuah kelas trading yang mengajarkan tentang ilmu trading melalui para mentor trading professional">
+  <meta name="keywords" content="kelas trading gratis, belajar trading, tutorial trading, quotex, kelas trading, trading gratis, trading, belajar trading online">
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  <meta name="author" content="Dev Trader"> 
  
   <title>@yield('title')</title>
 
