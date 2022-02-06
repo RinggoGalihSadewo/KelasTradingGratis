@@ -45,7 +45,7 @@
                 <h2 class="fw-bold text-dark">SIGNAL GRATIS</h2>
                 <p style="text-align: justify;">Kelas Trading Gratis menyediakan fasilitas signal gratis dengan syarat harus sudah daftar akun Quotex dibawah ini :</p>
                 <div style="margin-top: 7%;">     
-                <a href="http://quotex-brokerid.com" target="_blank">
+                <a href="http://daftarquotexindonesia.com" target="_blank">
                 <h4 class="text-dark text-center">Klik tombol dibawah ini</h4>
                 <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center mt-3 animated" alt="" width="100%">
                 </a> 

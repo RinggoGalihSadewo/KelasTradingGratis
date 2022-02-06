@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta name="title" content="KELAS TRADING GRATIS | Belajar Trading Online Binary Option Quotex">
-  <meta name="description" content="Kelas Trading Gratis adalah sebuah kelas trading yang mengajarkan tentang ilmu trading melalui para mentor trading professional">
+  <meta name="description" content="Kelas Trading Gratis adalah sebuah kelas trading yang mengajarkan tentang ilmu trading melalui para mentor trading professional. Kelas Trading Gratis menyediakan berbagai fasilitas yaitu Kelas Private Berbayar, Software Trading, Video Trading, Belajar Trading Bersama Mentor Terbaik dan Signal Gratis.">
   <meta name="keywords" content="kelas trading gratis, belajar trading, tutorial trading, quotex, kelas trading, trading gratis, trading, belajar trading online">
   <meta name="robots" content="index, follow">
   <meta name="googlebot" content="index, follow">
@@ -90,7 +90,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">       
                 <h4>Daftar Quotex ? klik tombol dibawah ini</h4>
                 <center>
-                <a href="http://quotex-brokerid.com" target="_blank">
+                <a href="http://daftarquotexindonesia.com" target="_blank">
                 <img src="/img/clients/btnQuotex.png" class="img-fluid d-flex justify-content-center mt-0" alt="" data-aos="zoom-in" data-aos-delay="200">
                 </a>  
                 </center>  
@@ -224,7 +224,7 @@
             <div class="card" style='background-image: url("/img/compress/kelas.png");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
                 <h5 class="card-title"><a href="{{url('/kelas-private-berbayar')}}" target="_blank">Kelas privat berbayar</a></h5>
-                <p class="card-text">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu full hanya dengan 750 rb dan langsung founder atau mentor utama yang memberi materi.</p>
+                <p class="card-text">Kelas Trading Gratis menyediakan fasilitas private berbayar selama 2 minggu hanya dengan 750 rb dan langsung founder atau mentor utama yang memberi materi.</p>
                 <div class="read-more"><a href="{{url('/kelas-private-berbayar')}}" target="_blank"><i class="bi bi-arrow-right"></i> Klik disini untuk baca selengkapnya</a></div>
               </div>
             </div>

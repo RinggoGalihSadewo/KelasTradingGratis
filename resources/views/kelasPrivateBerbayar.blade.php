@@ -51,16 +51,16 @@
         <p style="color: black; font-size: 18px;">Fasilitas yang akan diberikan selama private 2 minggu adalah : </p>
         <ul style="color: black; font-size: 18px;">
           <li>
-            Kelas dimulai dari jam 20.00 WIB - paham via Zoom.
+            Kelas dimulai dari jam 20.00 WIB - paham via Zoom (Bisa request jam).
           </li>
           <li>
             Teknik dan strategi jitu dengan short time open dan long time open.
           </li>
           <li>
-            Mendapatkan PDF teknik trading minimal 5.
+            Free konsultasi selama 2 minggu mengenai psikologis trading dan money management trading hingga bisa profit konsisten.
           </li>
           <li>
-            Free konsultasi selama 2 minggu full mengenai psikologis trading dan money management trading hingga bisa profit konsisten.
+            Dipertemuan terakhir akan ada ujian
           </li>
         </ul>
         </div>
